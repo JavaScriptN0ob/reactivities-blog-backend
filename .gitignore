@@ -5,3 +5,6 @@
 
 # Uncertain ignores
 Reactivities.sln
+**.db
+**.db-shm
+**.db-wal
