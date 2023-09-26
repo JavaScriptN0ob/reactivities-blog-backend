@@ -475,3 +475,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# Extra app settings for both dev and prod environment
+appsettings.json
+appsettings.Development.json
